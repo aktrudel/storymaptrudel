@@ -1,1 +1,152 @@
-https://uploads.knightlab.com/storymapjs/43406762abb84c78b47f6873732f2c3d/life-of-addie/index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- ......  -->
+    <!-- PUT YOUR TITLE IN PLACE OF TITLE BELOW: -->
+    <!-- ......  -->
+
+    <title>Page Title</title>
+
+    <!-- ... -->
+    <!-- ... -->
+    <!-- ... -->
+
+    <link
+      rel="canonical"
+      href="https://getbootstrap.com/docs/5.0/examples/starter-template/"
+    />
+
+    <!-- Bootstrap core CSS -->
+    <link
+      href="http://pachecod.github.io/bootstrap/assets/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <div class="container-fluid">
+
+        <!-- ... -->
+        <!-- PUT YOUR GITHUB USER NAME IN THE URL BELOW -->
+        <!-- ... -->
+
+        <a class="navbar-brand" href="https://YOURGITHUBUSERNAME.github.io"
+          >HOME</a
+        >
+
+        <!-- ... -->
+        <!-- ... -->
+        <!-- ... -->
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarsExampleDefault"
+          aria-controls="navbarsExampleDefault"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <!-- ... -->
+            <!-- REPLACE LINKS AND LINK TITLE BELOW WITH YOUR OWN, OR REMOVE THEM ENTIRELY -->
+            <!-- ... -->
+
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="http://link"
+                >MYSTORY</a
+              >
+            </li>
+
+            <!-- ... -->
+            <!-- ... -->
+            <!-- ... -->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="starter-template text-left py-5 px-3">
+
+        <!-- ... -->
+        <!-- PAGE CONTENT STARTS HERE -->
+        <!-- ... -->
+
+        <p><br /></p>
+
+        <a name="TLA"></a>
+
+        <h1>
+          The Life of Addie
+        </h1>
+
+        <p>
+           I was born in Almaty, Kazakhstan on March 30, 2001. I was adopted at eight months old and moved to Delaware with my family. I grew up in a small neighborhood in Wilmington, DE. The city is the largest in the state, but I live in the outskirtrs, or suburbs, of the city. My early life I went to an elemntary/middle school that was in the neighborhood of my home. I would walk to school often, it would only take 10 minutes.
+        </p>
+        
+         <p>
+          For high school I went to Archmere Academy. Fun fact, President Joe Biden, also graduated from there! My friends and I would hang out at their houses, the mall, parks, parking lots, or just enjoy the wooded back roads by taking long drives. Now being in college, my friends and I go to the University of Delaware is in Newark, about 12 miles away from Wilmington, or we drive up to Philadelphia, which is about a 30-40 minute drive on the highway.
+        </p>
+  <a href="https://uploads.knightlab.com/storymapjs/43406762abb84c78b47f6873732f2c3d/life-of-addie/index.html">Story Map</a>
+ 
+   <p>
+         Fun Places to go in DE:
+<ul>
+  <li>University of Delaware</li>
+  <li>Trolley Square </li>
+  <li>Delaware Beaches</li>
+</ul>  
+        </p>
+</p>
+    A link to my StoryMap
+    <a href="https://uploads.knightlab.com/storymapjs/43406762abb84c78b47f6873732f2c3d/life-of-addie/index.html">StoryMap</a>
+ 
+   <p>    
+
+        <!-- ... -->
+        <!-- END PAGE CONTENT -->
+        <!-- ... -->
+        
+      </div>
+    </main>
+    <!-- /.container -->
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
